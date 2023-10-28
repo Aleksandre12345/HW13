@@ -1,0 +1,141 @@
+@media (width > 1440px){
+    header{
+        width: 1440px;
+    }
+    .burgericon {
+        display: none;
+    }
+    .burgermenu {
+        display: none;
+    }
+    .Insure {
+        margin-left: 100px;
+    }
+    .contact {
+        display: block;
+        display: flex;
+        flex-direction: row;
+        gap: 25px;
+        margin-right: 190px;
+    }
+    .bluebox {
+        width: 1440px;
+        height: 600px;
+        position: relative;
+    }
+    .rectangle {
+        display: block;
+        position: absolute;
+        top: 20%;
+        left: 9%;
+    }
+    h4 {
+        width: 540px;
+        font-size: 72px;
+        font-weight: 400;
+        line-height: 64px;
+        text-align: left;
+        margin-left: 130px;
+        margin-top: 90px;
+    }
+    h5{
+        width: 540px;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 26px;
+        text-align: left;
+        margin-top: 150px;
+        margin-left: 50px;
+    }
+    .button1 {
+        left: 0;
+        margin-left: 135px;
+    }
+    .familyimg{
+        display: none;
+    }
+    .familyimgdesktop{
+        display: block;
+        position: absolute;
+        left: 50%;
+        top: 25%;
+        z-index: 2;
+    }
+    .leftline {
+        display: none;
+    }
+    .rightline{
+        display: none;
+    }
+    .purpleline {
+        display: none;
+    }
+    .footerbackground {
+        display: none;
+    }
+    .line {
+        margin-right: 990px;
+    }
+    h1 {
+        width: 666px;
+        color: #2C2830;
+        font-size: 72px;
+        font-family: 'DM Serif Display';
+        font-weight: 400;
+        line-height: 64px;
+        margin-right: 450px;
+    }
+    .boxes {
+        display: flex;
+        flex-direction: row;
+        gap: 50px;
+    }
+    .icon {
+        left: 0;
+    }
+    h2 {
+        left: 0;
+    }
+    .idk {
+        margin-left: 0px;
+    }
+    h3 {
+        text-align: left;
+    }
+    .bluebox2 {
+        width: 1110px;
+        height: 250px;
+    }
+    .blueboxtxt {
+        width: 475px;
+        font-size: 50px;
+        text-align: left;
+        margin-left: 70px;
+        margin-top: 65px;
+    }
+    .button2 {
+        position: absolute;
+        left: 77%;
+        top: 47%;
+    }
+    .footerinsure {
+        display: flex;
+        flex-direction: row;
+        gap: 830px;
+    }
+    .footerline {
+        width: 1110px;
+        height: 1px;
+    }
+    .footerboxes {
+        display: flex;
+        flex-direction: row;
+        margin-left: 0;
+        gap: 170px;
+    }
+    p {
+        margin-left: 0px;
+        text-align: left;
+    }
+
+}
